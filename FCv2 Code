@@ -1,0 +1,2 @@
+Code for the King Stallion 3 "FCv2" Flight Computer. Bulk written by ChatGPT, however, it has been cleaned up and fixed by Claude 2-3 times. Has fused BMP280 & IMU Sensors, Micro SD card Data logging, 2 Mosfet channels for Pyros altho only the "Main CHute" channel will be ued for first shakedown flighr which will be flown on an Aerotech G80t-14 motor to around 1100FT apogee.
+https://docs.google.com/document/d/1-vOs9NOztPQ26qUA7qI_YpkSDgjU2zHT27scBPTivLM/edit?usp=sharing
